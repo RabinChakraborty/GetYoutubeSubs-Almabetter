@@ -21,7 +21,7 @@ By including particular routes end point in the URL, users can access all subscr
 Clone the project
 
 ```bash
-
+https://github.com/RabinChakraborty/GetYoutubeSubs-Almabetter.git
 ```
 
 Go to the project directory
